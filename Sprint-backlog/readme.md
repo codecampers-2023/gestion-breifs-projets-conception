@@ -12,7 +12,10 @@
   - Assigner les briefs au apprenant.
 
 - Sprint 5 :
-  - Suivi l'avancement des briefs.
+  - Indiquer l'état.
 
 - Sprint 6 :
+  - Suivi l'avancement des briefs.
+
+- Sprint 7 :
   - Validation des briefs.
